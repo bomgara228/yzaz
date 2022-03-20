@@ -1,0 +1,8 @@
+﻿  game.cpp
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(8,37): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(8,23): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(42,31): warning C4018: >: несоответствие типов со знаком и без знака
+  player.cpp
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.h(23,9): error C3646: player: неизвестный спецификатор переопределения
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.h(23,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  Создание кода...
